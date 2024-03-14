@@ -5,3 +5,4 @@ package-lock.json
 .env
 .eslintignore
 .eslintrc.json
+migration_lock.toml
